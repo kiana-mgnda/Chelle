@@ -1,4 +1,4 @@
-# ChelleFlix — JamesFlix-style version
+# ChelleFlix
 
 This version follows the structure and feel of the reference website:
 - password gate / welcome screen
